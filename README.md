@@ -1,12 +1,12 @@
 # 自动红石音乐 · Auto Redstone Music
 
 <p align="center">
-  <img src="https://img.shields.io/badge/状态-Alpha%20测试版-ffb400?style=for-the-badge" alt="Alpha">
-  <img src="https://img.shields.io/badge/Minecraft-26.1.2-62b47a?style=for-the-badge" alt="Minecraft">
-  <img src="https://img.shields.io/badge/NeoForge-26.1.2.87+-e08a2e?style=for-the-badge" alt="NeoForge">
-  <img src="https://img.shields.io/badge/Java-25-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/许可-GPL--3.0-blue?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/采样库-29%20族%20·%20433%20音色-9c6ade?style=for-the-badge" alt="Samples">
+  <img src="https://img.shields.io/badge/状态-Alpha%20测试版-ffb400?style=plastic" alt="Alpha">
+  <img src="https://img.shields.io/badge/Minecraft-26.1.2-62b47a?style=plastic" alt="Minecraft">
+  <img src="https://img.shields.io/badge/NeoForge-26.1.2.87+-e08a2e?style=plastic" alt="NeoForge">
+  <img src="https://img.shields.io/badge/Java-25-007396?style=plastic" alt="Java">
+  <img src="https://img.shields.io/badge/许可-GPL--3.0-blue?style=plastic" alt="License">
+  <img src="https://img.shields.io/badge/采样库-29%20族%20·%20433%20音色-9c6ade?style=plastic" alt="Samples">
 </p>
 
 <p align="center"><b>导入一份 MIDI，在世界中铺设一条可以穿行的 3D 红石音乐隧道。</b></p>
