@@ -1,0 +1,32 @@
+license="GPL-3.0-only"
+
+# Mixin：拦截原版音符盒发声（Mojmap 运行时，无需 refmap）
+[[mixins]]
+config = "auto_redstone_music.mixins.json"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+# NOTE: Chinese displayName is written directly here (NOT via ${mod_name}) because this
+# Gradle version reads gradle.properties as ISO-8859-1, corrupting Chinese characters.
+# Keep this file saved as UTF-8 (see .editorconfig).
+displayName="自动红石音乐"
+authors="SrQingChen"
+description='''
+导入 MIDI，自动编配乐器与轨道，在世界中铺设一条圆柱形原版红石音乐隧道。
+空手右键控制器即可启动，所有音轨的红石信号同时行进，玩家被传送并随波前一起前进。
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

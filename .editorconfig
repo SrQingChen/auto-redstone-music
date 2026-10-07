@@ -1,0 +1,18 @@
+# EditorConfig: enforce UTF-8 everywhere.
+# This project contains Chinese text in gradle.properties, mods.toml template and
+# lang JSON files. Saving any of them with another charset (e.g. GBK) corrupts the
+# mod name/description shown in game. Editors that support EditorConfig (VS Code,
+# IntelliJ IDEA, etc.) will respect these settings automatically.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{json,toml,properties,gradle,java,mcmeta}]
+charset = utf-8
+
+[*.bat]
+end_of_line = crlf

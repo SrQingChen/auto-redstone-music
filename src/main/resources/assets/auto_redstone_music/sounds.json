@@ -1,0 +1,3033 @@
+{
+ "bassoon_022": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_022"
+   }
+  ]
+ },
+ "bassoon_025": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_025"
+   }
+  ]
+ },
+ "bassoon_029": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_029"
+   }
+  ]
+ },
+ "bassoon_033": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_033"
+   }
+  ]
+ },
+ "bassoon_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_036"
+   }
+  ]
+ },
+ "bassoon_043": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_043"
+   }
+  ]
+ },
+ "bassoon_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_048"
+   }
+  ]
+ },
+ "bassoon_051": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_051"
+   }
+  ]
+ },
+ "bassoon_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_056"
+   }
+  ]
+ },
+ "bassoon_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_060"
+   }
+  ]
+ },
+ "bassoon_063": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:bassoon/bassoon_063"
+   }
+  ]
+ },
+ "cello_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_024"
+   }
+  ]
+ },
+ "cello_028": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_028"
+   }
+  ]
+ },
+ "cello_031": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_031"
+   }
+  ]
+ },
+ "cello_035": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_035"
+   }
+  ]
+ },
+ "cello_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_038"
+   }
+  ]
+ },
+ "cello_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_041"
+   }
+  ]
+ },
+ "cello_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_045"
+   }
+  ]
+ },
+ "cello_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_048"
+   }
+  ]
+ },
+ "cello_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_052"
+   }
+  ]
+ },
+ "cello_055": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_055"
+   }
+  ]
+ },
+ "cello_059": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_059"
+   }
+  ]
+ },
+ "cello_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_062"
+   }
+  ]
+ },
+ "cello_065": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:cello/cello_065"
+   }
+  ]
+ },
+ "clarinet_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_038"
+   }
+  ]
+ },
+ "clarinet_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_041"
+   }
+  ]
+ },
+ "clarinet_046": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_046"
+   }
+  ]
+ },
+ "clarinet_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_050"
+   }
+  ]
+ },
+ "clarinet_053": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_053"
+   }
+  ]
+ },
+ "clarinet_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_058"
+   }
+  ]
+ },
+ "clarinet_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_062"
+   }
+  ]
+ },
+ "clarinet_065": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_065"
+   }
+  ]
+ },
+ "clarinet_070": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_070"
+   }
+  ]
+ },
+ "clarinet_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_074"
+   }
+  ]
+ },
+ "clarinet_078": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:clarinet/clarinet_078"
+   }
+  ]
+ },
+ "contrabass_016": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_016"
+   }
+  ]
+ },
+ "contrabass_018": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_018"
+   }
+  ]
+ },
+ "contrabass_022": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_022"
+   }
+  ]
+ },
+ "contrabass_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_024"
+   }
+  ]
+ },
+ "contrabass_026": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_026"
+   }
+  ]
+ },
+ "contrabass_028": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_028"
+   }
+  ]
+ },
+ "contrabass_030": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_030"
+   }
+  ]
+ },
+ "contrabass_032": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_032"
+   }
+  ]
+ },
+ "contrabass_037": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_037"
+   }
+  ]
+ },
+ "contrabass_040": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_040"
+   }
+  ]
+ },
+ "contrabass_044": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_044"
+   }
+  ]
+ },
+ "contrabass_047": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:contrabass/contrabass_047"
+   }
+  ]
+ },
+ "drum_035": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_035"
+   }
+  ]
+ },
+ "drum_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_036"
+   }
+  ]
+ },
+ "drum_037": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_037"
+   }
+  ]
+ },
+ "drum_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_038"
+   }
+  ]
+ },
+ "drum_039": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_039"
+   }
+  ]
+ },
+ "drum_040": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_040"
+   }
+  ]
+ },
+ "drum_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_041"
+   }
+  ]
+ },
+ "drum_042": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_042"
+   }
+  ]
+ },
+ "drum_044": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_044"
+   }
+  ]
+ },
+ "drum_046": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_046"
+   }
+  ]
+ },
+ "drum_047": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_047"
+   }
+  ]
+ },
+ "drum_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_048"
+   }
+  ]
+ },
+ "drum_049": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_049"
+   }
+  ]
+ },
+ "drum_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_050"
+   }
+  ]
+ },
+ "drum_051": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_051"
+   }
+  ]
+ },
+ "drum_053": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_053"
+   }
+  ]
+ },
+ "drum_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_054"
+   }
+  ]
+ },
+ "drum_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_056"
+   }
+  ]
+ },
+ "drum_057": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_057"
+   }
+  ]
+ },
+ "drum_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_058"
+   }
+  ]
+ },
+ "drum_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_060"
+   }
+  ]
+ },
+ "drum_061": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_061"
+   }
+  ]
+ },
+ "drum_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_062"
+   }
+  ]
+ },
+ "drum_063": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_063"
+   }
+  ]
+ },
+ "drum_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_064"
+   }
+  ]
+ },
+ "drum_066": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_066"
+   }
+  ]
+ },
+ "drum_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_069"
+   }
+  ]
+ },
+ "drum_070": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_070"
+   }
+  ]
+ },
+ "drum_073": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_073"
+   }
+  ]
+ },
+ "drum_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_074"
+   }
+  ]
+ },
+ "drum_075": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_075"
+   }
+  ]
+ },
+ "drum_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_076"
+   }
+  ]
+ },
+ "drum_077": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_077"
+   }
+  ]
+ },
+ "drum_080": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_080"
+   }
+  ]
+ },
+ "drum_081": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:drum/drum_081"
+   }
+  ]
+ },
+ "epiano_012": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_012"
+   }
+  ]
+ },
+ "epiano_016": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_016"
+   }
+  ]
+ },
+ "epiano_020": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_020"
+   }
+  ]
+ },
+ "epiano_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_024"
+   }
+  ]
+ },
+ "epiano_028": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_028"
+   }
+  ]
+ },
+ "epiano_032": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_032"
+   }
+  ]
+ },
+ "epiano_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_036"
+   }
+  ]
+ },
+ "epiano_040": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_040"
+   }
+  ]
+ },
+ "epiano_044": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_044"
+   }
+  ]
+ },
+ "epiano_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_048"
+   }
+  ]
+ },
+ "epiano_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_052"
+   }
+  ]
+ },
+ "epiano_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_056"
+   }
+  ]
+ },
+ "epiano_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_060"
+   }
+  ]
+ },
+ "epiano_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_064"
+   }
+  ]
+ },
+ "epiano_068": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_068"
+   }
+  ]
+ },
+ "epiano_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_072"
+   }
+  ]
+ },
+ "epiano_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_076"
+   }
+  ]
+ },
+ "epiano_080": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_080"
+   }
+  ]
+ },
+ "epiano_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_084"
+   }
+  ]
+ },
+ "epiano_088": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_088"
+   }
+  ]
+ },
+ "epiano_092": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_092"
+   }
+  ]
+ },
+ "epiano_096": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:epiano/epiano_096"
+   }
+  ]
+ },
+ "flute_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_048"
+   }
+  ]
+ },
+ "flute_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_052"
+   }
+  ]
+ },
+ "flute_057": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_057"
+   }
+  ]
+ },
+ "flute_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_060"
+   }
+  ]
+ },
+ "flute_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_064"
+   }
+  ]
+ },
+ "flute_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_069"
+   }
+  ]
+ },
+ "flute_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_072"
+   }
+  ]
+ },
+ "flute_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_076"
+   }
+  ]
+ },
+ "flute_081": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_081"
+   }
+  ]
+ },
+ "flute_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:flute/flute_084"
+   }
+  ]
+ },
+ "glockenspiel_067": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:glockenspiel/glockenspiel_067"
+   }
+  ]
+ },
+ "glockenspiel_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:glockenspiel/glockenspiel_072"
+   }
+  ]
+ },
+ "glockenspiel_079": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:glockenspiel/glockenspiel_079"
+   }
+  ]
+ },
+ "glockenspiel_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:glockenspiel/glockenspiel_084"
+   }
+  ]
+ },
+ "glockenspiel_091": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:glockenspiel/glockenspiel_091"
+   }
+  ]
+ },
+ "glockenspiel_096": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:glockenspiel/glockenspiel_096"
+   }
+  ]
+ },
+ "guitar_031": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_031"
+   }
+  ]
+ },
+ "guitar_033": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_033"
+   }
+  ]
+ },
+ "guitar_035": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_035"
+   }
+  ]
+ },
+ "guitar_037": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_037"
+   }
+  ]
+ },
+ "guitar_039": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_039"
+   }
+  ]
+ },
+ "guitar_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_041"
+   }
+  ]
+ },
+ "guitar_043": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_043"
+   }
+  ]
+ },
+ "guitar_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_045"
+   }
+  ]
+ },
+ "guitar_047": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_047"
+   }
+  ]
+ },
+ "guitar_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_050"
+   }
+  ]
+ },
+ "guitar_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_052"
+   }
+  ]
+ },
+ "guitar_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_054"
+   }
+  ]
+ },
+ "guitar_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_056"
+   }
+  ]
+ },
+ "guitar_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_058"
+   }
+  ]
+ },
+ "guitar_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_060"
+   }
+  ]
+ },
+ "guitar_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_062"
+   }
+  ]
+ },
+ "guitar_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_064"
+   }
+  ]
+ },
+ "guitar_066": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_066"
+   }
+  ]
+ },
+ "guitar_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_069"
+   }
+  ]
+ },
+ "guitar_071": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_071"
+   }
+  ]
+ },
+ "guitar_073": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_073"
+   }
+  ]
+ },
+ "guitar_075": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_075"
+   }
+  ]
+ },
+ "guitar_077": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_077"
+   }
+  ]
+ },
+ "guitar_079": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_079"
+   }
+  ]
+ },
+ "guitar_081": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_081"
+   }
+  ]
+ },
+ "guitar_083": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:guitar/guitar_083"
+   }
+  ]
+ },
+ "harp_028": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_028"
+   }
+  ]
+ },
+ "harp_031": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_031"
+   }
+  ]
+ },
+ "harp_035": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_035"
+   }
+  ]
+ },
+ "harp_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_038"
+   }
+  ]
+ },
+ "harp_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_041"
+   }
+  ]
+ },
+ "harp_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_045"
+   }
+  ]
+ },
+ "harp_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_048"
+   }
+  ]
+ },
+ "harp_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_052"
+   }
+  ]
+ },
+ "harp_055": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_055"
+   }
+  ]
+ },
+ "harp_059": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_059"
+   }
+  ]
+ },
+ "harp_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_062"
+   }
+  ]
+ },
+ "harp_065": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_065"
+   }
+  ]
+ },
+ "harp_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_069"
+   }
+  ]
+ },
+ "harp_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_072"
+   }
+  ]
+ },
+ "harp_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_076"
+   }
+  ]
+ },
+ "harp_079": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_079"
+   }
+  ]
+ },
+ "harp_083": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_083"
+   }
+  ]
+ },
+ "harp_086": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_086"
+   }
+  ]
+ },
+ "harp_089": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_089"
+   }
+  ]
+ },
+ "harp_093": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_093"
+   }
+  ]
+ },
+ "harp_095": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_095"
+   }
+  ]
+ },
+ "harp_098": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_098"
+   }
+  ]
+ },
+ "harp_101": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harp/harp_101"
+   }
+  ]
+ },
+ "harpsichord_022": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_022"
+   }
+  ]
+ },
+ "harpsichord_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_024"
+   }
+  ]
+ },
+ "harpsichord_026": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_026"
+   }
+  ]
+ },
+ "harpsichord_028": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_028"
+   }
+  ]
+ },
+ "harpsichord_030": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_030"
+   }
+  ]
+ },
+ "harpsichord_032": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_032"
+   }
+  ]
+ },
+ "harpsichord_034": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_034"
+   }
+  ]
+ },
+ "harpsichord_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_036"
+   }
+  ]
+ },
+ "harpsichord_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_038"
+   }
+  ]
+ },
+ "harpsichord_040": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_040"
+   }
+  ]
+ },
+ "harpsichord_042": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_042"
+   }
+  ]
+ },
+ "harpsichord_044": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_044"
+   }
+  ]
+ },
+ "harpsichord_046": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_046"
+   }
+  ]
+ },
+ "harpsichord_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_048"
+   }
+  ]
+ },
+ "harpsichord_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_050"
+   }
+  ]
+ },
+ "harpsichord_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_052"
+   }
+  ]
+ },
+ "harpsichord_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_054"
+   }
+  ]
+ },
+ "harpsichord_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_056"
+   }
+  ]
+ },
+ "harpsichord_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_058"
+   }
+  ]
+ },
+ "harpsichord_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_060"
+   }
+  ]
+ },
+ "harpsichord_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_062"
+   }
+  ]
+ },
+ "harpsichord_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_064"
+   }
+  ]
+ },
+ "harpsichord_066": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_066"
+   }
+  ]
+ },
+ "harpsichord_068": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_068"
+   }
+  ]
+ },
+ "harpsichord_070": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_070"
+   }
+  ]
+ },
+ "harpsichord_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_072"
+   }
+  ]
+ },
+ "harpsichord_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_074"
+   }
+  ]
+ },
+ "harpsichord_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:harpsichord/harpsichord_076"
+   }
+  ]
+ },
+ "horn_021": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_021"
+   }
+  ]
+ },
+ "horn_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_024"
+   }
+  ]
+ },
+ "horn_027": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_027"
+   }
+  ]
+ },
+ "horn_031": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_031"
+   }
+  ]
+ },
+ "horn_034": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_034"
+   }
+  ]
+ },
+ "horn_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_038"
+   }
+  ]
+ },
+ "horn_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_041"
+   }
+  ]
+ },
+ "horn_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_045"
+   }
+  ]
+ },
+ "horn_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_048"
+   }
+  ]
+ },
+ "horn_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_062"
+   }
+  ]
+ },
+ "horn_065": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:horn/horn_065"
+   }
+  ]
+ },
+ "marimba_029": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_029"
+   }
+  ]
+ },
+ "marimba_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_036"
+   }
+  ]
+ },
+ "marimba_043": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_043"
+   }
+  ]
+ },
+ "marimba_047": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_047"
+   }
+  ]
+ },
+ "marimba_053": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_053"
+   }
+  ]
+ },
+ "marimba_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_060"
+   }
+  ]
+ },
+ "marimba_067": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_067"
+   }
+  ]
+ },
+ "marimba_071": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_071"
+   }
+  ]
+ },
+ "marimba_077": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_077"
+   }
+  ]
+ },
+ "marimba_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:marimba/marimba_084"
+   }
+  ]
+ },
+ "oboe_046": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_046"
+   }
+  ]
+ },
+ "oboe_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_050"
+   }
+  ]
+ },
+ "oboe_053": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_053"
+   }
+  ]
+ },
+ "oboe_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_058"
+   }
+  ]
+ },
+ "oboe_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_062"
+   }
+  ]
+ },
+ "oboe_065": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_065"
+   }
+  ]
+ },
+ "oboe_070": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_070"
+   }
+  ]
+ },
+ "oboe_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_074"
+   }
+  ]
+ },
+ "oboe_077": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:oboe/oboe_077"
+   }
+  ]
+ },
+ "organ_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_024"
+   }
+  ]
+ },
+ "organ_027": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_027"
+   }
+  ]
+ },
+ "organ_030": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_030"
+   }
+  ]
+ },
+ "organ_033": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_033"
+   }
+  ]
+ },
+ "organ_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_036"
+   }
+  ]
+ },
+ "organ_039": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_039"
+   }
+  ]
+ },
+ "organ_042": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_042"
+   }
+  ]
+ },
+ "organ_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_045"
+   }
+  ]
+ },
+ "organ_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_048"
+   }
+  ]
+ },
+ "organ_051": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_051"
+   }
+  ]
+ },
+ "organ_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_054"
+   }
+  ]
+ },
+ "organ_057": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_057"
+   }
+  ]
+ },
+ "organ_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_060"
+   }
+  ]
+ },
+ "organ_063": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_063"
+   }
+  ]
+ },
+ "organ_066": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_066"
+   }
+  ]
+ },
+ "organ_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_069"
+   }
+  ]
+ },
+ "organ_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_072"
+   }
+  ]
+ },
+ "organ_075": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_075"
+   }
+  ]
+ },
+ "organ_078": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_078"
+   }
+  ]
+ },
+ "organ_081": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_081"
+   }
+  ]
+ },
+ "organ_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:organ/organ_084"
+   }
+  ]
+ },
+ "piano_021": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_021"
+   }
+  ]
+ },
+ "piano_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_024"
+   }
+  ]
+ },
+ "piano_027": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_027"
+   }
+  ]
+ },
+ "piano_030": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_030"
+   }
+  ]
+ },
+ "piano_033": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_033"
+   }
+  ]
+ },
+ "piano_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_036"
+   }
+  ]
+ },
+ "piano_039": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_039"
+   }
+  ]
+ },
+ "piano_042": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_042"
+   }
+  ]
+ },
+ "piano_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_045"
+   }
+  ]
+ },
+ "piano_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_048"
+   }
+  ]
+ },
+ "piano_051": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_051"
+   }
+  ]
+ },
+ "piano_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_054"
+   }
+  ]
+ },
+ "piano_057": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_057"
+   }
+  ]
+ },
+ "piano_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_060"
+   }
+  ]
+ },
+ "piano_063": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_063"
+   }
+  ]
+ },
+ "piano_066": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_066"
+   }
+  ]
+ },
+ "piano_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_069"
+   }
+  ]
+ },
+ "piano_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_072"
+   }
+  ]
+ },
+ "piano_075": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_075"
+   }
+  ]
+ },
+ "piano_078": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_078"
+   }
+  ]
+ },
+ "piano_081": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_081"
+   }
+  ]
+ },
+ "piano_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_084"
+   }
+  ]
+ },
+ "piano_087": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_087"
+   }
+  ]
+ },
+ "piano_090": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_090"
+   }
+  ]
+ },
+ "piano_093": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_093"
+   }
+  ]
+ },
+ "piano_096": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_096"
+   }
+  ]
+ },
+ "piano_099": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_099"
+   }
+  ]
+ },
+ "piano_102": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_102"
+   }
+  ]
+ },
+ "piano_105": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_105"
+   }
+  ]
+ },
+ "piano_108": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piano/piano_108"
+   }
+  ]
+ },
+ "piccolo_067": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piccolo/piccolo_067"
+   }
+  ]
+ },
+ "piccolo_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piccolo/piccolo_072"
+   }
+  ]
+ },
+ "piccolo_079": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piccolo/piccolo_079"
+   }
+  ]
+ },
+ "piccolo_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piccolo/piccolo_084"
+   }
+  ]
+ },
+ "piccolo_091": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:piccolo/piccolo_091"
+   }
+  ]
+ },
+ "recorder_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_060"
+   }
+  ]
+ },
+ "recorder_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_062"
+   }
+  ]
+ },
+ "recorder_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_064"
+   }
+  ]
+ },
+ "recorder_066": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_066"
+   }
+  ]
+ },
+ "recorder_068": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_068"
+   }
+  ]
+ },
+ "recorder_070": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_070"
+   }
+  ]
+ },
+ "recorder_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_072"
+   }
+  ]
+ },
+ "recorder_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_074"
+   }
+  ]
+ },
+ "recorder_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_076"
+   }
+  ]
+ },
+ "recorder_078": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_078"
+   }
+  ]
+ },
+ "recorder_082": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_082"
+   }
+  ]
+ },
+ "recorder_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:recorder/recorder_084"
+   }
+  ]
+ },
+ "sax_032": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_032"
+   }
+  ]
+ },
+ "sax_034": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_034"
+   }
+  ]
+ },
+ "sax_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_036"
+   }
+  ]
+ },
+ "sax_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_038"
+   }
+  ]
+ },
+ "sax_040": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_040"
+   }
+  ]
+ },
+ "sax_042": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_042"
+   }
+  ]
+ },
+ "sax_044": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_044"
+   }
+  ]
+ },
+ "sax_046": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_046"
+   }
+  ]
+ },
+ "sax_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_048"
+   }
+  ]
+ },
+ "sax_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_050"
+   }
+  ]
+ },
+ "sax_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_052"
+   }
+  ]
+ },
+ "sax_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_054"
+   }
+  ]
+ },
+ "sax_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_056"
+   }
+  ]
+ },
+ "sax_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_058"
+   }
+  ]
+ },
+ "sax_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_060"
+   }
+  ]
+ },
+ "sax_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_062"
+   }
+  ]
+ },
+ "sax_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_064"
+   }
+  ]
+ },
+ "sax_066": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_066"
+   }
+  ]
+ },
+ "sax_068": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_068"
+   }
+  ]
+ },
+ "sax_070": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_070"
+   }
+  ]
+ },
+ "sax_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_072"
+   }
+  ]
+ },
+ "sax_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_074"
+   }
+  ]
+ },
+ "sax_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:sax/sax_076"
+   }
+  ]
+ },
+ "synth_012": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_012"
+   }
+  ]
+ },
+ "synth_016": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_016"
+   }
+  ]
+ },
+ "synth_020": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_020"
+   }
+  ]
+ },
+ "synth_024": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_024"
+   }
+  ]
+ },
+ "synth_028": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_028"
+   }
+  ]
+ },
+ "synth_032": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_032"
+   }
+  ]
+ },
+ "synth_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_036"
+   }
+  ]
+ },
+ "synth_040": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_040"
+   }
+  ]
+ },
+ "synth_044": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_044"
+   }
+  ]
+ },
+ "synth_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_048"
+   }
+  ]
+ },
+ "synth_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_052"
+   }
+  ]
+ },
+ "synth_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_056"
+   }
+  ]
+ },
+ "synth_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_060"
+   }
+  ]
+ },
+ "synth_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_064"
+   }
+  ]
+ },
+ "synth_068": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_068"
+   }
+  ]
+ },
+ "synth_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_072"
+   }
+  ]
+ },
+ "synth_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_076"
+   }
+  ]
+ },
+ "synth_080": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_080"
+   }
+  ]
+ },
+ "synth_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:synth/synth_084"
+   }
+  ]
+ },
+ "trombone_022": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_022"
+   }
+  ]
+ },
+ "trombone_025": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_025"
+   }
+  ]
+ },
+ "trombone_027": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_027"
+   }
+  ]
+ },
+ "trombone_029": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_029"
+   }
+  ]
+ },
+ "trombone_034": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_034"
+   }
+  ]
+ },
+ "trombone_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_038"
+   }
+  ]
+ },
+ "trombone_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_041"
+   }
+  ]
+ },
+ "trombone_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_048"
+   }
+  ]
+ },
+ "trombone_051": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_051"
+   }
+  ]
+ },
+ "trombone_053": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trombone/trombone_053"
+   }
+  ]
+ },
+ "trumpet_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_041"
+   }
+  ]
+ },
+ "trumpet_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_045"
+   }
+  ]
+ },
+ "trumpet_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_048"
+   }
+  ]
+ },
+ "trumpet_051": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_051"
+   }
+  ]
+ },
+ "trumpet_055": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_055"
+   }
+  ]
+ },
+ "trumpet_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_058"
+   }
+  ]
+ },
+ "trumpet_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_062"
+   }
+  ]
+ },
+ "trumpet_065": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_065"
+   }
+  ]
+ },
+ "trumpet_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_069"
+   }
+  ]
+ },
+ "trumpet_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:trumpet/trumpet_072"
+   }
+  ]
+ },
+ "tuba_017": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_017"
+   }
+  ]
+ },
+ "tuba_022": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_022"
+   }
+  ]
+ },
+ "tuba_027": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_027"
+   }
+  ]
+ },
+ "tuba_029": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_029"
+   }
+  ]
+ },
+ "tuba_034": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_034"
+   }
+  ]
+ },
+ "tuba_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_038"
+   }
+  ]
+ },
+ "tuba_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_041"
+   }
+  ]
+ },
+ "tuba_046": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_046"
+   }
+  ]
+ },
+ "tuba_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tuba/tuba_050"
+   }
+  ]
+ },
+ "tubular_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_048"
+   }
+  ]
+ },
+ "tubular_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_050"
+   }
+  ]
+ },
+ "tubular_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_052"
+   }
+  ]
+ },
+ "tubular_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_054"
+   }
+  ]
+ },
+ "tubular_056": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_056"
+   }
+  ]
+ },
+ "tubular_058": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_058"
+   }
+  ]
+ },
+ "tubular_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_060"
+   }
+  ]
+ },
+ "tubular_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_062"
+   }
+  ]
+ },
+ "tubular_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:tubular/tubular_064"
+   }
+  ]
+ },
+ "vibraphone_041": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_041"
+   }
+  ]
+ },
+ "vibraphone_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_045"
+   }
+  ]
+ },
+ "vibraphone_048": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_048"
+   }
+  ]
+ },
+ "vibraphone_052": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_052"
+   }
+  ]
+ },
+ "vibraphone_055": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_055"
+   }
+  ]
+ },
+ "vibraphone_059": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_059"
+   }
+  ]
+ },
+ "vibraphone_062": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_062"
+   }
+  ]
+ },
+ "vibraphone_065": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_065"
+   }
+  ]
+ },
+ "vibraphone_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_069"
+   }
+  ]
+ },
+ "vibraphone_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_072"
+   }
+  ]
+ },
+ "vibraphone_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:vibraphone/vibraphone_076"
+   }
+  ]
+ },
+ "viola_036": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_036"
+   }
+  ]
+ },
+ "viola_038": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_038"
+   }
+  ]
+ },
+ "viola_040": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_040"
+   }
+  ]
+ },
+ "viola_043": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_043"
+   }
+  ]
+ },
+ "viola_047": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_047"
+   }
+  ]
+ },
+ "viola_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_050"
+   }
+  ]
+ },
+ "viola_053": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_053"
+   }
+  ]
+ },
+ "viola_057": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_057"
+   }
+  ]
+ },
+ "viola_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_060"
+   }
+  ]
+ },
+ "viola_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_064"
+   }
+  ]
+ },
+ "viola_067": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_067"
+   }
+  ]
+ },
+ "viola_071": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_071"
+   }
+  ]
+ },
+ "viola_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:viola/viola_074"
+   }
+  ]
+ },
+ "violin_055": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_055"
+   }
+  ]
+ },
+ "violin_057": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_057"
+   }
+  ]
+ },
+ "violin_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_060"
+   }
+  ]
+ },
+ "violin_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_064"
+   }
+  ]
+ },
+ "violin_067": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_067"
+   }
+  ]
+ },
+ "violin_069": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_069"
+   }
+  ]
+ },
+ "violin_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_072"
+   }
+  ]
+ },
+ "violin_076": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_076"
+   }
+  ]
+ },
+ "violin_079": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_079"
+   }
+  ]
+ },
+ "violin_081": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_081"
+   }
+  ]
+ },
+ "violin_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_084"
+   }
+  ]
+ },
+ "violin_088": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_088"
+   }
+  ]
+ },
+ "violin_091": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_091"
+   }
+  ]
+ },
+ "violin_093": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_093"
+   }
+  ]
+ },
+ "violin_096": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin/violin_096"
+   }
+  ]
+ },
+ "violin_ens_043": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_043"
+   }
+  ]
+ },
+ "violin_ens_045": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_045"
+   }
+  ]
+ },
+ "violin_ens_047": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_047"
+   }
+  ]
+ },
+ "violin_ens_050": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_050"
+   }
+  ]
+ },
+ "violin_ens_054": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_054"
+   }
+  ]
+ },
+ "violin_ens_057": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_057"
+   }
+  ]
+ },
+ "violin_ens_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_060"
+   }
+  ]
+ },
+ "violin_ens_064": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_064"
+   }
+  ]
+ },
+ "violin_ens_067": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_067"
+   }
+  ]
+ },
+ "violin_ens_071": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_071"
+   }
+  ]
+ },
+ "violin_ens_074": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:violin_ens/violin_ens_074"
+   }
+  ]
+ },
+ "xylophone_055": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_055"
+   }
+  ]
+ },
+ "xylophone_060": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_060"
+   }
+  ]
+ },
+ "xylophone_067": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_067"
+   }
+  ]
+ },
+ "xylophone_072": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_072"
+   }
+  ]
+ },
+ "xylophone_079": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_079"
+   }
+  ]
+ },
+ "xylophone_084": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_084"
+   }
+  ]
+ },
+ "xylophone_091": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_091"
+   }
+  ]
+ },
+ "xylophone_096": {
+  "sounds": [
+   {
+    "name": "auto_redstone_music:xylophone/xylophone_096"
+   }
+  ]
+ }
+}

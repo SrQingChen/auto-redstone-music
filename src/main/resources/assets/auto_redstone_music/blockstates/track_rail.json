@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "auto_redstone_music:block/track_rail" }
+  }
+}

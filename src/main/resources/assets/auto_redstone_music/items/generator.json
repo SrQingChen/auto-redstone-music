@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "auto_redstone_music:item/generator"
+  }
+}
